@@ -5,7 +5,7 @@ console.log('data test:', data)
 
 const app = express()
 
-const port = 3000
+const port = 4000
 
 function onListen () {
   const message = `Listening on :${port}`
