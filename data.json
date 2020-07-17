@@ -1,0 +1,17 @@
+[
+  {
+    "name": "rein",
+    "website": "nos.nl",
+    "hours": 6
+  },
+  {
+    "name": "david",
+    "website": "cnn.com",
+    "hours": 8
+  },
+  {
+    "name": "lisa",
+    "website": "codaisseur.com",
+    "hours": 4
+  }
+]
